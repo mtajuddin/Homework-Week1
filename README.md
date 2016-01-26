@@ -1,2 +1,2 @@
-# puzzle1.js
-Programming puzzle #1
+# homework-
+Programming puzzle #'s 1-8
